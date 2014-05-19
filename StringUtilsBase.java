@@ -86,6 +86,10 @@ public class StringUtilsBase {
      return !StringUtils.isBlank(str);
   }
 
+
+  /**
+   * For more visit http://www.docjar.org/html/api/org/apache/commons/lang/StringUtils.java.html
+   * /
 }
   
   
